@@ -15,9 +15,4 @@ having
 ORDER BY  
     avg_salary DESC ,
     demand_count DESC
-   
-    -- 1st priority: Job Security first
-    -- 2nd priority: Pay
-   
-    
 LIMIT 25;

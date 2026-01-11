@@ -13,7 +13,3 @@ group by
 order by 
     count(junction.job_id) DESC 
 limit 5 
-
-
-
-
